@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Deepthi
+## Hi there 👋 I'm Ramya Deepthi Jalli
 
 ---
 
