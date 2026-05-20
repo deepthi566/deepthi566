@@ -28,29 +28,37 @@ Currently seeking my first **Software Engineering role** — open to full-stack,
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| Category      | Technologies                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)                                                                                                                                                                               |
+| **Frontend**  | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Backend**   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)                                                                                                                                                                             |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                                                                                                                                                                                           |
+| **Tools**     | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)                                                                                            |
 
 ---
 
 ### 🚀 Projects
 
-**🔹 [LostNFound](https://github.com/deepthi566)**
+**🔹 [LostNFound](https://github.com/deepthi566/LostNFound)**
+
 > A web app for college students to report and find lost items — with listings, image uploads, and easy browsing.
 > `MongoDB` `Express.js` `React.js` `Node.js`
 
-**🔹 [Internshala Automation](https://github.com/deepthi566)**
+**🔹 [Internshala Automation](https://github.com/deepthi566/internshala-internship-automation)**
+
 > Automated internship applications by scraping listings, auto-submitting resumes & cover letters, and tracking status.
 > `Python` `Selenium` `Pandas` `OpenPyXL`
 
-**🔹 [Farm Care](https://github.com/deepthi566)**
+**🔹 [Farm Care](https://github.com/deepthi566/farm-care)**
+
 > A platform connecting farmers and customers directly for fresh, organic produce delivery.
 > `MongoDB` `Express.js` `React.js` `Node.js`
+
+**🔹 [Lung Cancer Prediction Using CNN](https://github.com/deepthi566/LungCancer-CNN)**
+
+> A deep learning-based application for detecting lung cancer from CT scan images using CNN and MobileNetV2 transfer learning.
+> `Python` `TensorFlow` `Keras` `CNN` `MobileNetV2` `Streamlit`
 
 ---
 
